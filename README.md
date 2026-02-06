@@ -11,4 +11,4 @@ A dark, moody short story blog for JustUtter February.
 ## Files
 
 - `index.html` - Main site with embedded images
-- `cold-lovers-*.png` - Theme images (embedded as base64, files kept for reference)
+- `cold-lovers-*.png` - Theme images (embedded as base64, files kept for reference)   
